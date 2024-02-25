@@ -1,6 +1,8 @@
 # KDT 팀 프로젝트 2조 
-
+- 2023.08.16~2023.08.31 (17일)
+- 발표 및 설명 PPT : [canvar 바로가기](https://www.canva.com/design/DAFshxIebi0/8cqFpxN1cCwrjHcyxXBt_Q/view?utm_content=DAFshxIebi0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 - game-main -> main.html 실행 or https://juho99.github.io/study-project-202308/game-main/index.html 해당링크로 접속
+- 
 - 미니게임 4종을 모아놓은 사이트 입니다.
 - 십자말풀이, 지뢰찾기, 미로찾기, 타자연습 게임이 존재합니다.
 
